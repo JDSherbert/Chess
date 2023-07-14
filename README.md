@@ -3,14 +3,14 @@
 # Chess
 
 <!-- Header Start -->
-  <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img align="left" img height="40" img width="40" src="https://cdn.simpleicons.org/c++"> </a>
+  <a href = "https://learn.microsoft.com/en-us/cpp/cpp-language"> <img align="left" img height="40" img width="40" src="https://cdn.simpleicons.org/ "> </a>
   <img align="right" alt="stars badge" src="https://img.shields.io/github/stars/jdsherbert/Chess"/>
   <img align="right" alt="forks badge" src="https://img.shields.io/github/forks/jdsherbert/Chess=Fork"/>
   <img align="right" alt="watching badge" src="https://img.shields.io/github/watchers/jdsherbert/Chess"/>
   <br></br>
   -----------------------------------------------------------------------
   <a href="https://learn.microsoft.com/en-us/cpp/cpp-language"> 
-  <img align="top" alt="C++ Console Application" src="https://img.shields.io/badge/C++%20Console%20Application-FFFFFF?style=for-the-badge&logo=cpp&logoColor=black&color=black&labelColor=FFFFFF"> </a>
+  <img align="top" alt="C++ Console Application" src="https://img.shields.io/badge/C++%20Console%20Application-FFFFFF?style=for-the-badge&logo=c++&logoColor=black&color=black&labelColor=FFFFFF"> </a>
   
   -----------------------------------------------------------------------
 This is a simple command-line chess game implemented in C++. It allows you to play against an AI player using basic chess rules.
