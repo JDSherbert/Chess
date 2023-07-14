@@ -10,7 +10,7 @@
   <br></br>
   -----------------------------------------------------------------------
   <a href="https://learn.microsoft.com/en-us/cpp/cpp-language"> 
-  <img align="top" alt="C++ Console Application" src="https://img.shields.io/badge/C++%20Console%20Application-FFFFFF?style=for-the-badge&logo=visualstudio&color=5C2D91&labelColor=000000"> </a>
+  <img align="top" alt="C++ Console Application" src="https://img.shields.io/badge/C++%20Console%20Application-FFFFFF?style=for-the-badge&logo=visualstudio&color=000000&labelColor=5C2D91"> </a>
   
   -----------------------------------------------------------------------
 This is a simple command-line chess game implemented in C++. It allows you to play against an AI player using basic chess rules.
