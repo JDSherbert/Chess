@@ -37,7 +37,7 @@ Navigate to the project directory:
 ```shell
 cd Chess
 ```
-Compile the code:
+Compile the code (exact method will depend on your compiler):
 
 ```shell
 g++ -std=c++11 Chess.cpp -o Chess
