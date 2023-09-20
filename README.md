@@ -60,7 +60,7 @@ The AI player uses the Minimax algorithm with alpha-beta pruning to make its mov
 ### Example Gameplay
 
 ```mathematica
-   A B C D E F G H
+  A  B  C  D  E  F G  H
 1 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
 2 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
 3
@@ -70,26 +70,26 @@ The AI player uses the Minimax algorithm with alpha-beta pruning to make its mov
 7 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
 8 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
-Enter your move (e.g., 'e2 e4'): e2 e4
+Enter your move (e.g., 'e2 to e4'): e2 e4
 
-   A B C D E F G H
+  A  B  C  D  E  F G  H
 1 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
-2 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+2 ♟ ♟ ♟    ♟ ♟ ♟ ♟
 3
-4          ♙
+4          ♟
 5
 6
-7 ♙ ♙ ♙ ♙   ♙ ♙ ♙
+7 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
 8 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
 
 AI moved: g8 f6
-   A B C D E F G H
-1 ♜ ♞ ♝ ♛ ♚ ♝   ♜
-2 ♟ ♟ ♟ ♟ ♟ ♟ ♟ ♟
+  A  B  C  D  E  F G  H
+1 ♜ ♞ ♝ ♛ ♚ ♝ ♞ ♜
+2 ♟ ♟ ♟    ♟ ♟ ♟ ♟
 3
-4          ♙
+4          ♟
 5
-6        ♞
-7 ♙ ♙ ♙ ♙   ♙ ♙ ♙
-8 ♖ ♘ ♗ ♕ ♔ ♗ ♘ ♖
+6               ♘
+7 ♙ ♙ ♙ ♙ ♙ ♙ ♙ ♙
+8 ♖ ♘ ♗ ♕ ♔ ♗    ♖
 ```
